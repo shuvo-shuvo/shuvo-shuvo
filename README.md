@@ -14,10 +14,6 @@ Email Me 👉 ✉️ sazzad.r.me@.com For Collaboration/Project or Anything Else
 
 💬 Ask me about: Programming, PCB design, robotics, and tech collaboration
 
-📫 How to reach me: sazzad.r.me@.com
-
-😄 Pronouns: Sazzadul Islam Shuvo
-
 ⚡ Fun fact: I love tech, and tech loves me
 
 ## 🏆 GitHub Trophies
