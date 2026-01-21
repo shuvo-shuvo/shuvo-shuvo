@@ -1,4 +1,16 @@
+💫 Hi 👋, I'm Sazzadul Islam Shuvo
+VLSI Enthusias |PCB Designer |Robotics Enthusiast from Bangladesh
 
+Email Me 👉 ✉️ sazzad.r.me@.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Embedded systems, PCB design, and robotics projects
+🌱 I’m currently learning: Advanced embedded programming, automation, and system integration
+👯 I’m looking to collaborate on: Robotics, IoT, embedded systems, and hardware–software projects
+🤔 I’m looking for help with: Scaling robotics and intelligent hardware solutions
+💬 Ask me about: Programming, PCB design, robotics, and tech collaboration
+📫 How to reach me: sazzad.r.me@.com
+😄 Pronouns: Sazzadul Islam Shuvo
+⚡ Fun fact: I love tech, and tech loves me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:u2108057@student.cuet.ac.bd) 
 
